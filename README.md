@@ -4,16 +4,31 @@ Check the student's hand position and posture
 
 ## Warm up
 
-Sharp key scale
+Have the student play scales with regards to their skill level.
 
-Five finger scale
+Have the student learn a routine from Hanon's exercise book.
 
-Hanon exercises
+## Lesson
 
-## Learn
+Use the Faber Piano Adventures method books.
 
-Faber piano adventures
+### Beginner
+
+Teach the student about the names of notes.
+
+Teach the student how to play basic five-finger scale with regards to different hand positions.
+
+Teach the student how to read music.
+
+### Intermediate
+
+Have the student look everything over before sightreading.
+
+Have the student use a metronome.
 
 ## Performance
 
-Faber piano adventures
+Use the Faber Piano Adventures performance book.
+
+Teach the student performance etiquette (bow, etc.)
+
