@@ -24,11 +24,3 @@ Sharp key scales
 
 Sightreading
 
-### Advanced
-
-Piano literature
-
-## Performance (15 min)
-
-[Use Faber Method books](https://www.amazon.com/Primer-Level-Lesson-Piano-Adventures/dp/1616770759/ref=sr_1_1?crid=2ZJD85CH0TECH&keywords=faber+piano+adventures+primer+level&qid=1669151336&sprefix=faber+piano+adventures+pri%2Caps%2C245&sr=8-1)
-
